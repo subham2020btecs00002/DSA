@@ -1,0 +1,8 @@
+CREATE TABLE Employeesss (
+  EmpNo INT,
+  Name VARCHAR(40),
+  Address VARCHAR(40),
+  Grade INT,
+  Salary int,
+  Date_of_joining DATE
+);
